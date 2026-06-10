@@ -13,9 +13,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 > I build AI systems that are practical, human-centered, and measurable - from browser agents and multi-agent pipelines to educational AI and multimodal research tools.
-
+<!--
 - 🔭 Currently building: agentic systems, browser automation, controllable LLM workflows
 - 🌱 Currently learning: multimodal adaptation, robust evaluation, and human-AI interaction design
+-->
 - 💬 Ask me about: AI agents, educational AI, HCI, and rapid prototyping
 - 🌐 Portfolio: [chenyuzhang.com](https://chenyuzhang.com)
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> [linkedin.com/in/charliechenyuzhang](https://www.linkedin.com/in/charliechenyuzhang)  
