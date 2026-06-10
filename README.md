@@ -34,8 +34,9 @@ I’m building a set of AI-native tools and naming each one after a hummingbird 
 
 ## Past Projects (2016-2025)
 
-All projects from my portfolio app: **56 projects (2016-2025)**.
+All projects from my portfolio app: **56 projects (2016-2026)**.
 
+- 🧑‍💻 **[fable-leetcode](https://github.com/CharlieChenyuZhang/fable-leetcode)** - Full-stack LeetCode clone-Monaco workspace, sandboxed JS/Python judge, and judge-verified user problem authoring
 - 🎓 **[MIT ACMMI VLM Homework Design (TA)](https://github.com/charliechenyuzhang/acmmi-vlm-homework)** - VLM fine-tuning homework for MIT ACMMI-end-to-end Colab workflow for multimodal learners
 - 🕷️ **[hai-raddit-crawler](https://github.com/charliechenyuzhang/hai-raddit-crawler)** - Reddit scraping pipeline for Stanford HAI-Pushshift + API for research-ready datasets
 - 🔧 **[fluid-interface-openai-finetuning](https://github.com/charliechenyuzhang/fluid-interface-openai-finetuning)** - OpenAI fine-tuning automation for MIT Fluid Interfaces-reproducible training pipelines
