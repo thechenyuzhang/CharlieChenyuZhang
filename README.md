@@ -21,6 +21,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> [linkedin.com/in/charliechenyuzhang](https://www.linkedin.com/in/charliechenyuzhang)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="16" /> [x.com/chenyuzhang](https://x.com/chenyuzhang)
 
+<!--
 ## Now Building (Hummingbird Series, 2026–Present)
 
 I’m building a set of AI-native tools and naming each one after a hummingbird species. Hummingbirds feel like a perfect metaphor for AI-native apps: fast iteration, high “heartbeat” energy, strong memory, constant fuel, and structured, iridescent complexity. **[Species reference list.](https://en.wikipedia.org/wiki/List_of_hummingbirds?utm_source=chatgpt.com)** 
@@ -28,6 +29,7 @@ I’m building a set of AI-native tools and naming each one after a hummingbird 
 - <img src="https://chenyuzhang-com-assets.s3.us-east-1.amazonaws.com/hummingbird-svgrepo-com.svg" width="16" /> **[hummer-crimson-topaz](https://github.com/charliechenyuzhang/hummer-crimson-topaz)**: Interviewed me on the latest AI trends and turns my answers into a publish-ready LinkedIn article draft.
 - <img src="https://chenyuzhang-com-assets.s3.us-east-1.amazonaws.com/hummingbird-svgrepo-com.svg" width="16" /> **[hummer-fiery-topaz](https://github.com/charliechenyuzhang/hummer-fiery-topaz)**: A terminal-first SSH runner for remote LLM workflows that color-codes tmux panes by state, so you can instantly see what needs your input (waiting), what is actively running, what is paused or stuck, and what finished cleanly. Built for “LLM does the work, human stays in control” loops, with simple configs and scripts to tint the whole pane background (not just text) for high-signal monitoring.
 - <img src="https://chenyuzhang-com-assets.s3.us-east-1.amazonaws.com/hummingbird-svgrepo-com.svg" width="16" /> **[hummer-auth](https://github.com/CharlieChenyuZhang/hummer-auth)**: A centralized authentication and billing microservice for the Hummingbird ecosystem that uses Firebase Auth for Google sign-in, Stripe for subscriptions, and issues its own JWTs so downstream apps can stay decoupled from Firebase. It handles login, token refresh, logout, app registration, and subscription flows in one place, giving Hummer projects a shared, production-ready foundation for auth, payments, and account management.
+-->
 
 ## Past Projects (2016-2025)
 
