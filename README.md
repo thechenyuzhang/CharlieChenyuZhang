@@ -19,7 +19,7 @@
 -->
 - 💬 Ask me about: AI agents, educational AI, HCI, and rapid prototyping
 - 🌐 Portfolio: [chenyuzhang.com](https://chenyuzhang.com)
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> [linkedin.com/in/charliechenyuzhang](https://www.linkedin.com/in/charliechenyuzhang)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> [linkedin.com/in/thechenyuzhang](https://www.linkedin.com/in/thechenyuzhang)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="16" /> [x.com/chenyuzhang](https://x.com/chenyuzhang)
 
 <!--
